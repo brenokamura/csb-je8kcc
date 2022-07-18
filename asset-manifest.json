@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://brenokamura.github.io/csb-je8kcc/static/js/main.26c84395.chunk.js",
+    "main.js.map": "https://brenokamura.github.io/csb-je8kcc/static/js/main.26c84395.chunk.js.map",
+    "runtime-main.js": "https://brenokamura.github.io/csb-je8kcc/static/js/runtime-main.1cfd984b.js",
+    "runtime-main.js.map": "https://brenokamura.github.io/csb-je8kcc/static/js/runtime-main.1cfd984b.js.map",
+    "static/js/2.6600a03d.chunk.js": "https://brenokamura.github.io/csb-je8kcc/static/js/2.6600a03d.chunk.js",
+    "static/js/2.6600a03d.chunk.js.map": "https://brenokamura.github.io/csb-je8kcc/static/js/2.6600a03d.chunk.js.map",
+    "index.html": "https://brenokamura.github.io/csb-je8kcc/index.html",
+    "static/js/2.6600a03d.chunk.js.LICENSE.txt": "https://brenokamura.github.io/csb-je8kcc/static/js/2.6600a03d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cfd984b.js",
+    "static/js/2.6600a03d.chunk.js",
+    "static/js/main.26c84395.chunk.js"
+  ]
+}
